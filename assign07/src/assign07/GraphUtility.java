@@ -16,18 +16,18 @@ import java.util.Scanner;
 public class GraphUtility {
 
 	public static <Type> boolean areConnected(List<Type> sources, List<Type> destinations, Type srcData, Type dstData)
-			throws IllegalArgumentException {
+ {
 		// FILL IN + ADD METHOD COMMENT
 		return false;
 	}
 
 	public static <Type> List<Type> shortestPath(List<Type> sources, List<Type> destinations, Type srcData, Type dstData)
-			throws IllegalArgumentException {
+			 {
 		// FILL IN + ADD METHOD COMMENT
 		return null;
 	}
 	
-	public static <Type> List<Type> sort(List<Type> sources, List<Type> destinations) throws IllegalArgumentException {
+	public static <Type> List<Type> sort(List<Type> sources, List<Type> destinations) {
 		// FILL IN + ADD METHOD COMMENT
 		return null;
 	}
